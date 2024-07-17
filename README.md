@@ -1,19 +1,12 @@
-# todolist
+# Todolist
+##### 这是一个基于 Vue 2 框架的项目。该项目用户可以创建每天的代办项，结合日历表查看历史代办项或制定未来计划。该项目自己定义样式和组件，通过这个项目了解Vue项目的部署，希望这个项目对你有所帮助！
 
-## Project setup
+###### 项目运行
 ```
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###### 线上地址
+https://43.139.219.105/todolist/
