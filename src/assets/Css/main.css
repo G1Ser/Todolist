@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Centaur";
+    src: url("@/assets/Fonts/Centaur.ttf");
+}
+
+@font-face {
+    font-family: "Ly";
+    src: url("@/assets/Fonts/Centaur.ttf");
+    /* 字体内存太大了 */
+    /* src: url("@/assets/Fonts/SanJiLangYiLangTi-2.ttf"); */
+}
